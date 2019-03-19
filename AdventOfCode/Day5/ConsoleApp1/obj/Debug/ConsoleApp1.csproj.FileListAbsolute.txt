@@ -1,0 +1,8 @@
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\bin\Debug\input.txt
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\nick_\source\repos\AdventOfCode\Day5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
