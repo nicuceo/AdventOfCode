@@ -1,0 +1,8 @@
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\bin\Debug\input.txt
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\bin\Debug\Day7.exe.config
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\bin\Debug\Day7.exe
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\bin\Debug\Day7.pdb
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\obj\Debug\Day7.csprojAssemblyReference.cache
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\obj\Debug\Day7.exe
+C:\Users\nick_\source\repos\AdventOfCode\Day7\Day7\obj\Debug\Day7.pdb
